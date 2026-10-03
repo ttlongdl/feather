@@ -1,0 +1,54 @@
+{
+  "name": "ttlongdl Personal IPA Source",
+  "identifier": "ttlongdl.personal-ipa-source",
+  "website": "https://github.com/ttlongdl/feather",
+  "apps": [
+    {
+      "name": "Feather Personal",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "developerName": "Samara / ttlongdl fork",
+      "iconURL": "https://raw.githubusercontent.com/claration/Feather/main/landing.png",
+      "localizedDescription": "Personal fork of Feather v2.9.0. Donation promotional card removed from Settings; upstream credits and GPL-3.0 licensing retained.",
+      "subtitle": "Feather personal fork · v2.9.0-1",
+      "tintColor": "848ef9",
+      "versions": [
+        {
+          "version": "2.9.0-1",
+          "date": "2026-10-03T03:57:32Z",
+          "size": 14857083,
+          "downloadURL": "https://github.com/ttlongdl/feather/releases/download/v2.9.0-1/Feather.ipa",
+          "localizedDescription": "Personal fork release v2.9.0-1. Removes the donation promotional card from Settings."
+        }
+      ],
+      "appPermissions": {},
+      "version": "2.9.0-1",
+      "versionDate": "2026-10-03T03:57:32Z",
+      "size": 14857083,
+      "downloadURL": "https://github.com/ttlongdl/feather/releases/download/v2.9.0-1/Feather.ipa"
+    },
+    {
+      "name": "Facebook Plus",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "Meta / Facebook Plus by ttlongdl",
+      "iconURL": "https://raw.githubusercontent.com/ttlongdl/Facebook-IPA-Patcher/main/icon.png",
+      "localizedDescription": "Facebook 581.0.0 patched with Facebook Plus v1.0.1-9, libroot-free cyan injection, fbbridge deep-link support, UISupportedDevices cleanup, extension stripping, and TrollFools backup cleanup.",
+      "subtitle": "Facebook 581.0.0 · FBPlus v1.0.1-9",
+      "tintColor": "1877F2",
+      "versions": [
+        {
+          "version": "581.0.0",
+          "date": "2026-09-30T15:03:28Z",
+          "size": 208982529,
+          "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-581.0.0-plus-v1.0.1-9/FB.581.0.0.Plus.v1.0.1-9.ipa",
+          "localizedDescription": "Facebook 581.0.0 with Facebook Plus v1.0.1-9."
+        }
+      ],
+      "appPermissions": {},
+      "version": "581.0.0",
+      "versionDate": "2026-09-30T15:03:28Z",
+      "size": 208982529,
+      "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-581.0.0-plus-v1.0.1-9/FB.581.0.0.Plus.v1.0.1-9.ipa"
+    }
+  ],
+  "news": []
+}
