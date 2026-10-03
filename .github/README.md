@@ -7,7 +7,7 @@
 > [!NOTE]
 > **Personal fork.** This repository is a personal fork of [claration/Feather](https://github.com/claration/Feather), maintained for personal use, testing, and experimentation. It is not affiliated with or endorsed by the upstream project.
 >
-> Current fork change: the donation promotional card shown at the top of Settings has been removed. I am not subscribed to the upstream developer's sponsorship program, so I prefer not to display that promotional card in my personal build. Upstream credits, acknowledgements, copyright notices, and the GPL-3.0 license are retained.
+> Current fork change: removes the donation promotional card from the Settings screen for a cleaner personal-use interface. Upstream credits, acknowledgements, copyright notices, sponsorship information in the About screen, and the GPL-3.0 license are retained.
 
 <div align="center">
 
