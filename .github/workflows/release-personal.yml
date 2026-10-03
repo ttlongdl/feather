@@ -1,0 +1,50 @@
+name: Release Personal Fork
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/release-personal.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          submodules: 'true'
+
+      - name: Select Xcode
+        run: |
+          sudo xcode-select -s /Applications/Xcode_26.6.0.app
+          xcodebuild -version
+
+      - name: Reset stale SwiftPM resolution
+        run: |
+          rm -f Feather.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+          rm -f Feather.xcworkspace/xcshareddata/swiftpm/Package.resolved
+          rm -rf ~/Library/Developer/Xcode/DerivedData
+          rm -rf ~/Library/Caches/org.swift.swiftpm
+          rm -rf ~/Library/org.swift.swiftpm
+
+      - name: Resolve Swift packages
+        run: |
+          xcodebuild -resolvePackageDependencies \
+            -project Feather.xcodeproj \
+            -scheme Feather
+
+      - name: Build iOS IPA
+        run: make iphoneos
+
+      - name: Publish v2.9.0-1
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create v2.9.0-1 packages/Feather.ipa \
+            --target "$GITHUB_SHA" \
+            --title "Feather v2.9.0-1" \
+            --notes "Personal fork of Feather v2.9.0. Removes the donation promotional card from Settings. Upstream credits and GPL-3.0 licensing are retained."
