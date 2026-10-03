@@ -33,19 +33,13 @@ struct SettingsView: View {
 		return _certificates[_storedSelectedCert]
 	}
 
-    
-	private let _donationsUrl = "https://github.com/sponsors/claration"
 	private let _githubUrl = "https://github.com/claration/Feather"
     
 	// MARK: Body
 	var body: some View {
 		NBNavigationView(.localized("Settings")) {
 			Form {
-				#if !NIGHTLY && !DEBUG
-					SettingsDonationCellView(site: _donationsUrl)
-				#endif
-                
-				_feedback()
+_feedback()
                 
 				Section {
 					NavigationLink(destination: AppearanceView()) {
