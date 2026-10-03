@@ -23,6 +23,14 @@ jobs:
           sudo xcode-select -s /Applications/Xcode_26.6.0.app
           xcodebuild -version
 
+      - name: Reset stale SwiftPM resolution
+        run: |
+          rm -f Feather.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+          rm -f Feather.xcworkspace/xcshareddata/swiftpm/Package.resolved
+          rm -rf ~/Library/Developer/Xcode/DerivedData
+          rm -rf ~/Library/Caches/org.swift.swiftpm
+          rm -rf ~/Library/org.swift.swiftpm
+
       - name: Resolve Swift packages
         run: |
           xcodebuild -resolvePackageDependencies \
