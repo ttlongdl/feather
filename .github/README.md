@@ -3,6 +3,12 @@
 [![GitHub License](https://img.shields.io/github/license/claration/Feather?color=%23C96FAD)](https://github.com/claration/Feather/blob/main/LICENSE)
 [![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/khcrysalis)
 
+
+> [!NOTE]
+> **Personal fork.** This repository is a personal fork of [claration/Feather](https://github.com/claration/Feather), maintained for personal use, testing, and experimentation. It is not affiliated with or endorsed by the upstream project.
+>
+> Current fork change: the donation promotional card shown at the top of Settings has been removed. I am not subscribed to the upstream developer's sponsorship program, so I prefer not to display that promotional card in my personal build. Upstream credits, acknowledgements, copyright notices, and the GPL-3.0 license are retained.
+
 <div align="center">
 
 <img title="Feather" alt="Feather" height="180" src="landing.png">
@@ -30,14 +36,9 @@ Sideloading app meant for developer certificates.
 
 ## Download
 
-Visit [releases](https://github.com/claration/Feather/releases) and get the latest `.ipa`.
+For the official upstream build, use [claration/Feather releases](https://github.com/claration/Feather/releases).
 
-<a href="https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/claration/Feather/refs/heads/main/app-repo.json" target="_blank">
-   <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
-</a>
-<a href="https://github.com/claration/Feather/releases/latest/download/Feather.ipa" target="_blank">
-   <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/Download_Blue.png?raw=true" alt="Download .ipa" width="200">
-</a>
+Personal fork builds are published under this fork's [releases](https://github.com/ttlongdl/feather/releases). These builds contain the fork-specific changes described above.
 
 ## Translating
 
