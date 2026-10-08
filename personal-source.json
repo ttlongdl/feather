@@ -31,10 +31,17 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta / Facebook Plus by ttlongdl",
       "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/25/9e/1f259e4c-6362-711f-6b2a-7624b0d4684f/Icon-Production-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Facebook 581.0.0 patched with Facebook Plus v1.0.1-9, libroot-free cyan injection, fbbridge deep-link support, UISupportedDevices cleanup, Facebook extension stripping (only Open in Facebook Safari extension retained), and TrollFools backup cleanup.",
-      "subtitle": "Facebook 581.0.0 · FBPlus v1.0.1-9",
+      "localizedDescription": "Facebook 582.0.0 patched with Facebook Plus v1.0.1-9, libroot-free cyan injection, fbbridge deep-link support, UISupportedDevices cleanup, Facebook extension stripping (only Open in Facebook Safari extension retained), and TrollFools backup cleanup.",
+      "subtitle": "Facebook 582.0.0 · FBPlus v1.0.1-9",
       "tintColor": "1877F2",
       "versions": [
+        {
+          "version": "582.0.0",
+          "date": "2026-10-08T06:50:52Z",
+          "size": 211686506,
+          "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-582.0.0-plus-v1.0.1-9/FB.582.0.0.Plus.v1.0.1-9.ipa",
+          "localizedDescription": "Facebook 582.0.0 with Facebook Plus v1.0.1-9."
+        },
         {
           "version": "581.0.0",
           "date": "2026-09-30T15:03:28Z",
@@ -44,10 +51,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "581.0.0",
-      "versionDate": "2026-09-30T15:03:28Z",
-      "size": 208982529,
-      "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-581.0.0-plus-v1.0.1-9/FB.581.0.0.Plus.v1.0.1-9.ipa"
+      "version": "582.0.0",
+      "versionDate": "2026-10-08T06:50:52Z",
+      "size": 211686506,
+      "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-582.0.0-plus-v1.0.1-9/FB.582.0.0.Plus.v1.0.1-9.ipa"
     }
   ],
   "news": [],
