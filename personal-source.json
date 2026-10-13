@@ -31,14 +31,14 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta / Facebook Plus by ttlongdl",
       "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/25/9e/1f259e4c-6362-711f-6b2a-7624b0d4684f/Icon-Production-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Facebook 582.0.0 patched with Facebook Plus v1.0.1-9, libroot-free cyan injection, fbbridge deep-link support, UISupportedDevices cleanup, Facebook extension stripping (only Open in Facebook Safari extension retained), and TrollFools backup cleanup.",
+      "localizedDescription": "Facebook 582.0.0 patched with Facebook Plus v1.0.1-9 and ShopeeBlocker v0.1.4, libroot-free cyan injection, fbbridge deep-link support, UISupportedDevices cleanup, Facebook extension stripping (only Open in Facebook Safari extension retained), and TrollFools backup cleanup.",
       "subtitle": "Facebook 582.0.0 · FBPlus v1.0.1-9",
       "tintColor": "1877F2",
       "versions": [
         {
           "version": "582.0.0",
           "date": "2026-10-08T06:50:52Z",
-          "size": 211686506,
+          "size": 211690952,
           "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-582.0.0-plus-v1.0.1-9/FB.582.0.0.Plus.v1.0.1-9.ipa",
           "localizedDescription": "Facebook 582.0.0 with Facebook Plus v1.0.1-9."
         },
@@ -53,7 +53,7 @@
       "appPermissions": {},
       "version": "582.0.0",
       "versionDate": "2026-10-08T06:50:52Z",
-      "size": 211686506,
+      "size": 211690952,
       "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-582.0.0-plus-v1.0.1-9/FB.582.0.0.Plus.v1.0.1-9.ipa"
     }
   ],
