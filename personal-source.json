@@ -31,10 +31,17 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta / Facebook Plus by ttlongdl",
       "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/25/9e/1f259e4c-6362-711f-6b2a-7624b0d4684f/Icon-Production-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Facebook Plus v1.0.2-2, standalone FBAudioFix and ShopeeBlocker, plus Open in Facebook Safari extension. Generated from user-supplied decrypted IPA. Sign the resulting IPA yourself.",
-      "subtitle": "Facebook 584.0.0 · FBPlus v1.0.2-2 · FBAudioFix · ShopeeBlocker",
+      "localizedDescription": "Facebook Plus v1.0.3-1, stable FBAudioFix 0.3.20 (built from main), standalone ShopeeBlocker, plus Open in Facebook Safari extension. Generated from user-supplied decrypted IPA. Sign the resulting IPA yourself.",
+      "subtitle": "Facebook 585.0.0 · FBPlus v1.0.3-1 · FBAudioFix · ShopeeBlocker",
       "tintColor": "1877F2",
       "versions": [
+        {
+          "version": "585.0.0",
+          "date": "2026-11-01T04:22:21Z",
+          "size": 226938186,
+          "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-585.0.0-plus-v1.0.3-1-triple-build-41/FB.585.0.0.Plus.v1.0.3-1.ipa",
+          "localizedDescription": "Facebook 585.0.0 with Facebook Plus v1.0.3-1, standalone FBAudioFix and ShopeeBlocker."
+        },
         {
           "version": "584.0.0",
           "date": "2026-10-21T06:51:25Z",
@@ -65,10 +72,10 @@
         }
       ],
       "appPermissions": {},
-      "version": "584.0.0",
-      "versionDate": "2026-10-21T06:51:25Z",
-      "size": 224043625,
-      "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-584.0.0-plus-v1.0.2-2-triple-build-36/FB.584.0.0.Plus.v1.0.2-2.Triple-Tweak.ipa"
+      "version": "585.0.0",
+      "versionDate": "2026-11-01T04:22:21Z",
+      "size": 226938186,
+      "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-585.0.0-plus-v1.0.3-1-triple-build-41/FB.585.0.0.Plus.v1.0.3-1.ipa"
     }
   ],
   "news": [],
