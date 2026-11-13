@@ -26,64 +26,6 @@
       "size": 14857083,
       "downloadURL": "https://github.com/ttlongdl/feather/releases/download/v2.9.0-1/Feather.ipa"
     },
-    {
-      "name": "Facebook Plus",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "Meta / Facebook Plus by ttlongdl",
-      "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/25/9e/1f259e4c-6362-711f-6b2a-7624b0d4684f/Icon-Production-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "localizedDescription": "Facebook Plus v1.0.4-1 (upstream-first v1.0.4 fork), stable standalone FBAudioFix 0.3.20, standalone ShopeeBlocker, Open in Facebook Safari extension, and Files sharing. Generated from user-supplied decrypted IPA. Sign the resulting IPA and extension yourself. Like confirmation independence and Ads filtering have not been fully runtime-verified.",
-      "subtitle": "Facebook 587.0.0 · FBPlus v1.0.4-1 · FBAudioFix · ShopeeBlocker",
-      "tintColor": "1877F2",
-      "versions": [
-        {
-          "version": "587.0.0",
-          "date": "2026-11-13T04:35:19Z",
-          "size": 235476326,
-          "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-587.0.0-plus-v1.0.4-1-triple-build-43/FB.587.0.0.Plus.v1.0.4-1.ipa",
-          "localizedDescription": "Facebook 587.0.0 with Facebook Plus v1.0.4-1, standalone FBAudioFix and ShopeeBlocker."
-        },
-        {
-          "version": "585.0.0",
-          "date": "2026-11-03T03:33:03Z",
-          "size": 227039959,
-          "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-585.0.0-plus-v1.0.4-1-triple-build-42/FB.585.0.0.Plus.v1.0.4-1.ipa",
-          "localizedDescription": "Facebook 585.0.0 with Facebook Plus v1.0.4-1, standalone FBAudioFix and ShopeeBlocker."
-        },
-        {
-          "version": "584.0.0",
-          "date": "2026-10-21T06:51:25Z",
-          "size": 224043625,
-          "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-584.0.0-plus-v1.0.2-2-triple-build-36/FB.584.0.0.Plus.v1.0.2-2.Triple-Tweak.ipa",
-          "localizedDescription": "Facebook 584.0.0 with Facebook Plus v1.0.2-2, standalone FBAudioFix and ShopeeBlocker."
-        },
-        {
-          "version": "583.0.0",
-          "date": "2026-10-16T06:37:46Z",
-          "size": 213773133,
-          "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-583.0.0-plus-v1.0.1-9-shopee-v0.1.4-build-32/FB.583.0.0.Plus.v1.0.1-9.ipa",
-          "localizedDescription": "Facebook 583.0.0 with Facebook Plus v1.0.1-9 and ShopeeBlocker v0.1.4."
-        },
-        {
-          "version": "582.0.0",
-          "date": "2026-10-13T15:04:10Z",
-          "size": 211690952,
-          "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-582.0.0-plus-v1.0.1-9-shopee-v0.1.4-build-31/FB.582.0.0.Plus.v1.0.1-9.ipa",
-          "localizedDescription": "Facebook 582.0.0 with Facebook Plus v1.0.1-9 and ShopeeBlocker v0.1.4."
-        },
-        {
-          "version": "581.0.0",
-          "date": "2026-09-30T15:03:28Z",
-          "size": 208982529,
-          "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-581.0.0-plus-v1.0.1-9/FB.581.0.0.Plus.v1.0.1-9.ipa",
-          "localizedDescription": "Facebook 581.0.0 with Facebook Plus v1.0.1-9."
-        }
-      ],
-      "appPermissions": {},
-      "version": "587.0.0",
-      "versionDate": "2026-11-13T04:35:19Z",
-      "size": 235476326,
-      "downloadURL": "https://github.com/ttlongdl/Facebook-IPA-Patcher/releases/download/fb-587.0.0-plus-v1.0.4-1-triple-build-43/FB.587.0.0.Plus.v1.0.4-1.ipa"
-    }
   ],
   "news": [],
   "iconURL": "https://raw.githubusercontent.com/ttlongdl/feather/main/Feather/Resources/Assets.xcassets/AppIcon.appiconset/feather.png"
